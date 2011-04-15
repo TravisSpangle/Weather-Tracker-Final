@@ -1,0 +1,407 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 611}}";
+			sepNavSelRange = "{285, 0}";
+			sepNavVisRange = "{0, 845}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 1625}}";
+			sepNavSelRange = "{3440, 0}";
+			sepNavVisRange = "{1890, 1558}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* weather */ = {
+		activeExec = 0;
+		executables = (
+			5333A314130A2B4E00DB05D5 /* weather */,
+		);
+	};
+	28860B760F44E54D00985440 /* weather.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 0;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						73.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {680, 218}}",
+							"{{685, 0}, {357, 218}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {1042, 220}}",
+							"{{0, 225}, {1042, 318}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {223, 218}}",
+							"{{228, 0}, {452, 218}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						189.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-190, 78}, {1027, 303}}";
+			};
+			sepNavWindowFrame = "{{15, 117}, {1042, 656}}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* StationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 611}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{0, 672}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* StationController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 3471}}";
+			sepNavSelRange = "{2964, 102}";
+			sepNavVisRange = "{2189, 1520}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5333A314130A2B4E00DB05D5 /* weather */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* weather */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* weather */,
+		);
+		codeSenseManager = 5333A326130A2B7100DB05D5 /* Code sense */;
+		executables = (
+			5333A314130A2B4E00DB05D5 /* weather */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					785,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319565479;
+			PBXWorkspaceStateSaveDate = 319565479;
+		};
+		perUserProjectItems = {
+			5333A341130A2D9800DB05D5 /* XDModelBookmark */ = 5333A341130A2D9800DB05D5 /* XDModelBookmark */;
+			5333A4ED130A6F2800DB05D5 /* PBXTextBookmark */ = 5333A4ED130A6F2800DB05D5 /* PBXTextBookmark */;
+			5333A4EE130A6F2800DB05D5 /* PBXTextBookmark */ = 5333A4EE130A6F2800DB05D5 /* PBXTextBookmark */;
+			5333A4EF130A6F2800DB05D5 /* PBXTextBookmark */ = 5333A4EF130A6F2800DB05D5 /* PBXTextBookmark */;
+			5333A4F0130A6F2800DB05D5 /* PBXTextBookmark */ = 5333A4F0130A6F2800DB05D5 /* PBXTextBookmark */;
+			5333A4F1130A6F2800DB05D5 /* PBXTextBookmark */ = 5333A4F1130A6F2800DB05D5 /* PBXTextBookmark */;
+			5333A4F2130A6F2800DB05D5 /* PBXTextBookmark */ = 5333A4F2130A6F2800DB05D5 /* PBXTextBookmark */;
+			5333A4F3130A6F2800DB05D5 /* PBXTextBookmark */ = 5333A4F3130A6F2800DB05D5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5333A325130A2B7100DB05D5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5333A314130A2B4E00DB05D5 /* weather */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = weather;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5333A325130A2B7100DB05D5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5333A326130A2B7100DB05D5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5333A339130A2D4900DB05D5 /* Station.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 583}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 469}";
+		};
+	};
+	5333A33A130A2D4900DB05D5 /* Station.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 611}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 278}";
+		};
+	};
+	5333A341130A2D9800DB05D5 /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 28860B760F44E54D00985440 /* weather.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	5333A346130A31C000DB05D5 /* StationDetailController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 611}}";
+			sepNavSelRange = "{271, 0}";
+			sepNavVisRange = "{0, 1006}";
+		};
+	};
+	5333A347130A31C000DB05D5 /* StationDetailController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 1586}}";
+			sepNavSelRange = "{3008, 0}";
+			sepNavVisRange = "{2258, 995}";
+		};
+	};
+	5333A3E1130A5D8600DB05D5 /* Station.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Station.h;
+		path = /Users/tspangle/Dropbox/IPhone/weather/Station.h;
+		sourceTree = "<absolute>";
+	};
+	5333A4ED130A6F2800DB05D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5333A3E1130A5D8600DB05D5 /* Station.h */;
+		name = "Station.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	5333A4EE130A6F2800DB05D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5333A33A130A2D4900DB05D5 /* Station.m */;
+		name = "Station.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 278;
+		vrLoc = 0;
+	};
+	5333A4EF130A6F2800DB05D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* StationController.h */;
+		name = "StationController.h: 13";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 0;
+	};
+	5333A4F0130A6F2800DB05D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* StationController.m */;
+		name = "StationController.m: 259";
+		rLen = 0;
+		rLoc = 8989;
+		rType = 0;
+		vrLen = 1786;
+		vrLoc = 7210;
+	};
+	5333A4F1130A6F2800DB05D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 285;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 0;
+	};
+	5333A4F2130A6F2800DB05D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "AppDelegate.m: 119";
+		rLen = 0;
+		rLoc = 3440;
+		rType = 0;
+		vrLen = 1558;
+		vrLoc = 1890;
+	};
+	5333A4F3130A6F2800DB05D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5333A346130A31C000DB05D5 /* StationDetailController.h */;
+		name = "StationDetailController.h: 15";
+		rLen = 0;
+		rLoc = 271;
+		rType = 0;
+		vrLen = 1006;
+		vrLoc = 0;
+	};
+	53BE4819130B055F0043A4FC /* Homework 5 WeatherTracker Part 3.pdf */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 360}, {981, 693}}";
+		};
+	};
+}
